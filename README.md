@@ -1,0 +1,1 @@
+# genpark-episodic-agent-memory-indexer-and-decay-retriever-skill\n\nStores agent episodic memories with semantic tag indexes and time-decay relevance calculation.\n\n100% Python Standard Library implementation with zero external dependencies.
