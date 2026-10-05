@@ -1,0 +1,8 @@
+{
+  "name": "genpark-episodic-agent-memory-indexer-and-decay-retriever-skill",
+  "version": "1.0.0",
+  "description": "Stores agent episodic memories with semantic tag indexes and time-decay relevance calculation",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
